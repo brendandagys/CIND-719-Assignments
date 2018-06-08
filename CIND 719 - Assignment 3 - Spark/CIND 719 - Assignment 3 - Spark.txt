@@ -1,0 +1,37 @@
+Spark Programming Assignment
+
+
+Download the input files from Resources section of the course page and upload to
+your VM.
+Copy the files to /user/lab/ in the HDFS.
+If you decide to use the file on your local system instead of HDFS, please 
+state this in your submit file.
+
+
+1. ODD/EVEN NUMBER (30 pts)
+(Hint: Note that you are reading the file as text and need to convert the numbers to int())
+
+
+Input: number_list.txt (a list of 1000 integers)
+Output: Count the number of odd numbers and even numbers in the file
+
+
+2. Top 10 and bottom 10 words (30 pts)
+(Hint: Search and try takeOrdered() method)
+
+
+Input: shakespeare.txt 
+Output: 10 words with the highest count and 10 words with lowest count 
+
+
+3. Group and Count (40 pts)
+
+
+Input: fulltext_txt
+Output: Count the number of tweets for each user_id and save the results in a text file. 
+
+
+
+
+SUBMIT YOUR SCRIPT AND THE OUTPUT OF YOUR SCRIPT.
+
